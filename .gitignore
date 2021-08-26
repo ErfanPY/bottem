@@ -2,3 +2,6 @@
 *.session
 __pycache__/
 config.ini
+bottem.egg-info/
+dist/
+temp_tests/
