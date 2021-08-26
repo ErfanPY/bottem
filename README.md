@@ -1,4 +1,4 @@
-# **Telegram bot just by calling one function..**
+# **Telegram bot just by calling one function.**
 
 ### Description:
 If you have some functions and you want to **bot them** use **bottem** :wink:  
