@@ -40,7 +40,3 @@ ___
 * `bot_token` from [botfather](https://t.me/botfather)
 
 Read [pyrogram](https://docs.pyrogram.org/topics/config-file) for more config info.  
-___
-
-PS:  
-BTW I've stolen this README.md from this [repo](https://github.com/tamton-aquib)
